@@ -1,0 +1,437 @@
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:43:48.736Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:43:49.738Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:44:25.955Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:44:26.436Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:44:40.091Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:44:40.623Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:45:13.119Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:45:13.697Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:46:04.224Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:46:04.747Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:46:23.256Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:46:23.743Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:46:54.120Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:46:54.592Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:47:01.636Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:47:02.065Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:47:32.265Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:47:32.765Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:47:49.307Z"}
+{"level":"info","message":"Redis ","service":"identity-service","timestamp":"2025-03-07T02:47:49.315Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:47:49.826Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:47:54.531Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:47:54.561Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:47:55.083Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:47:58.279Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:47:58.316Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:48:01.686Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:48:01.693Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:48:02.353Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:48:07.341Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:48:07.371Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:48:07.783Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:48:14.507Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:48:14.537Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:48:14.924Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:48:21.615Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:48:21.643Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:48:22.076Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:12.246Z"}
+{"level":"info","message":"Request body: {\"username\":\"monish\",\"email\":\"monish@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:12.253Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:12.273Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:12.362Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:22.658Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:22.659Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:22.671Z"}
+{"level":"info","message":"User saved successfully","service":"identity-service","timestamp":"2025-03-07T02:49:22.832Z","userId":"67ca5eb2f93f950fbcc023a7"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:48.955Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:48.964Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:48.979Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:49.024Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:49.507Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:49.507Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:49.511Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:49.555Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:50.066Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:50.067Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:50.069Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:50.105Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:50.548Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:50.548Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:50.552Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:50.592Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:51.013Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:51.014Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:51.017Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:51.056Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:51.525Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:51.526Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:51.528Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:51.573Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:51.973Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:51.973Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:51.978Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:52.021Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:52.410Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:52.410Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:52.416Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:52.463Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:52.796Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:52.796Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:52.799Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:52.838Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:53.179Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:53.180Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:53.185Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:53.230Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:53.562Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:53.563Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:53.564Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:53.622Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:53.927Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:53.927Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:53.928Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:53.963Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:54.296Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:54.296Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:54.299Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:54.332Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:54.660Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:54.660Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:54.664Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:54.702Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:55.009Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:55.009Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:55.010Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:55.045Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:55.339Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:55.339Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:55.341Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:55.376Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:55.692Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:55.693Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:55.694Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:55.729Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:56.044Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:56.045Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:56.046Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:56.083Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:56.389Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:56.390Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:56.392Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:56.427Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:56.737Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:56.740Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:56.741Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:56.776Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:57.056Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:57.057Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:57.058Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:57.096Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:57.372Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:57.373Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:57.374Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:57.415Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:59.145Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:59.145Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:59.146Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:59.182Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:59.436Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:59.437Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:59.438Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:59.474Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:49:59.780Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:49:59.780Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:49:59.781Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:49:59.816Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:50:00.428Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:50:00.429Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:50:00.431Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:50:00.469Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:50:01.061Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:50:01.062Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:50:01.063Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:50:01.098Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:50:01.592Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:50:01.592Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:50:01.593Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:50:01.630Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:50:02.042Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:50:02.043Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:50:02.044Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:50:02.081Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:50:02.493Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:50:02.494Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:50:02.496Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:50:02.538Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:50:02.805Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:50:02.806Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:50:02.807Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:50:02.850Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:50:03.127Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:50:03.127Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:50:03.129Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:50:03.168Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:50:03.438Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:50:03.438Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:50:03.439Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:50:03.474Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:50:03.775Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:50:03.775Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:50:03.776Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:50:03.815Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:50:24.852Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:50:24.860Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:50:25.417Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:50:42.854Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:50:42.862Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:50:46.589Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:50:46.617Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:50:47.232Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:51:01.063Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:51:01.100Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:51:01.556Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:51:06.069Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:51:06.099Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:51:06.522Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:12.799Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:12.800Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:13.461Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:13.463Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:14.510Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:14.512Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:14.804Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:14.807Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:16.258Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:16.259Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:16.571Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:16.572Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:16.923Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:16.924Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:17.242Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:17.242Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:17.560Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:17.561Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:17.879Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:17.880Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:18.192Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:18.192Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:19.366Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:19.367Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:19.708Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:19.709Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:20.081Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:20.084Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:20.404Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:20.405Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:20.761Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:20.762Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:21.106Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:21.107Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:21.423Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:21.424Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:21.760Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:21.761Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:22.395Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:22.396Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:22.892Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:22.893Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:24.543Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:24.544Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:51:39.086Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:51:39.093Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:39.256Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:39.257Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:51:39.637Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:40.569Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:40.572Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:41.193Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:41.195Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:41.505Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:41.508Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:43.027Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:43.028Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:43.438Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:43.439Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:43.891Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:43.891Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:44.244Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:44.245Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:44.633Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:44.634Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:45.001Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:45.001Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:45.358Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:45.359Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:45.749Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:45.750Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:46.074Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:46.075Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:46.465Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:46.466Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:46.774Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:46.774Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:48.576Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:48.578Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:48.878Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:48.878Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:49.207Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:49.208Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:49.861Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:49.862Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:50.158Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:50.159Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:50.510Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:50.510Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:50.825Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:50.825Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:52.828Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:52.829Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:53.159Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:53.160Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:53.692Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:53.694Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:54.227Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:54.227Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:54.637Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:54.638Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:55.073Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:55.074Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:55.429Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:55.430Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:55.756Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:55.757Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:56.116Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:56.121Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:56.478Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:56.479Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:51:56.790Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:51:56.790Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:52:12.217Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:52:12.227Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:12.410Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:12.411Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:52:12.660Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:12.830Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:12.832Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:13.253Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:13.254Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:13.740Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:13.742Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:14.169Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:14.170Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:14.584Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:14.584Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:14.586Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:15.020Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:15.021Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:15.023Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:15.561Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:15.561Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:15.564Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:15.925Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:15.925Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:15.929Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:16.565Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:16.566Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:16.572Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:52:24.900Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:52:24.931Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:24.976Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:24.977Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:52:25.347Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:25.460Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:25.461Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:25.797Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:25.798Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:26.111Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:26.114Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:26.448Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:26.449Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:26.769Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:26.770Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:27.407Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:27.408Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:27.763Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:27.764Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:28.181Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:28.181Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:28.632Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:28.632Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:29.034Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:29.035Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:29.039Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:29.560Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:29.560Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:29.561Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:29.949Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:29.950Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:29.951Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:30.370Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:30.371Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:30.374Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:30.858Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:30.860Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:30.871Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:31.211Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:31.211Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:31.214Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:31.554Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:31.555Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:31.556Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:46.561Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:46.562Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:46.566Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:47.574Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:47.575Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:47.577Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:48.176Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:48.177Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:48.193Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:52:48.618Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:52:48.619Z"}
+{"level":"warn","message":"Sensitive endpoint rate limit exceeded for IP: ::1","service":"identity-service","timestamp":"2025-03-07T02:52:48.620Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:53:32.483Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:53:32.490Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:53:35.917Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:53:35.946Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:53:36.334Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:56:14.846Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:56:14.853Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:56:15.496Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:56:29.364Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:56:29.371Z"}
+{"level":"info","message":"Received GET request to /api/auth/get","service":"identity-service","timestamp":"2025-03-07T02:56:34.289Z"}
+{"level":"info","message":"Request body: {}","service":"identity-service","timestamp":"2025-03-07T02:56:34.290Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:56:37.339Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:56:37.340Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:56:37.349Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:56:43.251Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:56:43.259Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:56:43.262Z"}
+{"level":"error","message":"Registration error occurred Operation `users.findOne()` buffering timed out after 10000ms","service":"identity-service","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/monishreddy/Desktop/2025-Start/MicroServices-Architectures/Social-Media-MicroServices/identity-service/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:187:23)\n    at listOnTimeout (node:internal/timers:614:17)\n    at processTimers (node:internal/timers:549:7)","timestamp":"2025-03-07T02:56:47.392Z"}
+{"level":"error","message":"Registration error occurred Operation `users.findOne()` buffering timed out after 10000ms","service":"identity-service","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/monishreddy/Desktop/2025-Start/MicroServices-Architectures/Social-Media-MicroServices/identity-service/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:187:23)\n    at listOnTimeout (node:internal/timers:614:17)\n    at processTimers (node:internal/timers:549:7)","timestamp":"2025-03-07T02:56:53.282Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:57:04.228Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:57:04.237Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:57:04.759Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-03-07T02:57:08.981Z"}
+{"level":"info","message":"Request body: {\"username\":\"ravi\",\"email\":\"ravi@gmail.com\",\"password\":\"15124Ec023@\"}","service":"identity-service","timestamp":"2025-03-07T02:57:08.981Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-03-07T02:57:08.986Z"}
+{"level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-03-07T02:57:09.051Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:58:05.194Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:58:05.204Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:58:05.754Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:58:16.120Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:58:16.155Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:59:00.729Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:59:00.739Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:59:01.290Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:59:06.129Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:59:06.160Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:59:06.567Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:59:21.500Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:59:21.530Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:59:22.005Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-07T02:59:38.021Z"}
+{"level":"info","message":"Redis Database is connected","service":"identity-service","timestamp":"2025-03-07T02:59:38.048Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-03-07T02:59:38.493Z"}
